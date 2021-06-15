@@ -1,3 +1,6 @@
-# OpenGL
-OpenGL is cross-platform kind of API (not exactly API) for rendering 2D and 3D graphics by using your GPU.
-I am trying to make new projects related to graphics and design, using OpenGL.
+👋 Hi, I’m Pratham Mehta
+- I'm in my first year of Computer Engineering
+- 👀 I’m interested in Graphics Programming and Machine Learning
+- 🌱 I’m currently learning OpenGL in CPP
+- I aim to build my own start-up.
+- 📫 How to reach me : mehtapratham2712@gmail.com
